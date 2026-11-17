@@ -1,0 +1,1 @@
+# Pasta reservada para o futuro Backend.
